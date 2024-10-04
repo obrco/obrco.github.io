@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://obrco.github.io/Veb/sitemap.Veb.gz
